@@ -1,2 +1,1 @@
-SQL Database
-List of students
+SQL Database - List of students
